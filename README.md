@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmmsalmon
 - 👀 I’m interested in rebuilding my portfolio from before I entered the IT industry.
-- 🌱 I’m currently learning the skills for coding interviews that have nothing to do with the actual job.
-- 💞 I’m looking to collaborate on anything involving Django, SQL, and AWS.
+- 🌱 I’m currently learning the skills for coding interviews that generally have nothing to do with the actual job.
+- 💞 I’m looking to collaborate on anything involving ML, Django, SQL, and AWS.
 - 📫 How to reach me you can find an email address in my commits
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
